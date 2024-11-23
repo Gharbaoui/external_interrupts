@@ -1,0 +1,14 @@
+IO_LOC "gclk" 52;
+IO_PORT "gclk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+
+IO_LOC "rst" 4;
+IO_PORT "rst" IO_TYPE=LVCMOS18;
+
+IO_LOC "sig" 63;
+IO_PORT "sig" IO_TYPE=LVCMOS33;
+
+IO_LOC "edge_sig" 77;
+IO_PORT "edge_sig" IO_TYPE=LVCMOS33;
+
+IO_LOC "ref_clk" 51;
+IO_PORT "ref_clk" IO_TYPE=LVCMOS33;
