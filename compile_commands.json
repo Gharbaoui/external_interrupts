@@ -1,6 +1,6 @@
 [
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -32,7 +32,7 @@
   "file": "src/main.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -66,7 +66,7 @@
 
 
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -99,7 +99,7 @@
   "file": "../common/adc_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -132,7 +132,7 @@
   "file": "../common/adc_common_v1_multi.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -165,7 +165,7 @@
   "file": "../common/adc_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -198,7 +198,7 @@
   "file": "../can.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -231,7 +231,7 @@
   "file": "../common/crc_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -264,7 +264,7 @@
   "file": "../common/crypto_common_f24.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -297,7 +297,7 @@
   "file": "crypto.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -330,7 +330,7 @@
   "file": "../common/dac_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -363,7 +363,7 @@
   "file": "../common/dac_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -396,7 +396,7 @@
   "file": "../common/dcmi_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -429,7 +429,7 @@
   "file": "../common/desig_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -462,7 +462,7 @@
   "file": "../common/desig_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -495,7 +495,7 @@
   "file": "../common/dma_common_f24.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -528,7 +528,7 @@
   "file": "../common/dma2d_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -561,7 +561,7 @@
   "file": "../common/dsi_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -594,7 +594,7 @@
   "file": "../common/exti_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -627,7 +627,7 @@
   "file": "flash.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -660,7 +660,7 @@
   "file": "../common/flash_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -693,7 +693,7 @@
   "file": "../common/flash_common_f.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -726,7 +726,7 @@
   "file": "../common/flash_common_f24.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -759,7 +759,7 @@
   "file": "../common/flash_common_idcache.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -792,7 +792,7 @@
   "file": "../common/fmc_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -825,7 +825,7 @@
   "file": "../common/gpio_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -858,7 +858,7 @@
   "file": "../common/gpio_common_f0234.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -891,7 +891,7 @@
   "file": "../common/hash_common_f24.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -924,7 +924,7 @@
   "file": "../common/i2c_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -957,7 +957,7 @@
   "file": "../common/iwdg_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -990,7 +990,7 @@
   "file": "../common/lptimer_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1023,7 +1023,7 @@
   "file": "../common/ltdc_common_f47.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1056,7 +1056,7 @@
   "file": "../common/pwr_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1089,7 +1089,7 @@
   "file": "pwr.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1122,7 +1122,7 @@
   "file": "../common/rcc_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1155,7 +1155,7 @@
   "file": "rcc.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1188,7 +1188,7 @@
   "file": "../common/rng_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1221,7 +1221,7 @@
   "file": "../common/rtc_common_l1f024.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1254,7 +1254,7 @@
   "file": "rtc.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1287,7 +1287,7 @@
   "file": "../common/spi_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1320,7 +1320,7 @@
   "file": "../common/spi_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1353,7 +1353,7 @@
   "file": "../common/spi_common_v1_frf.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1386,7 +1386,7 @@
   "file": "../common/timer_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1419,7 +1419,7 @@
   "file": "../common/timer_common_f0234.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1452,7 +1452,7 @@
   "file": "../common/timer_common_f24.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1485,7 +1485,7 @@
   "file": "../common/usart_common_all.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1518,7 +1518,7 @@
   "file": "../common/usart_common_f124.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1551,7 +1551,7 @@
   "file": "../common/quadspi_common_v1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1584,7 +1584,7 @@
   "file": "../../usb/usb.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1617,7 +1617,7 @@
   "file": "../../usb/usb_standard.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1650,7 +1650,7 @@
   "file": "../../usb/usb_control.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1683,7 +1683,7 @@
   "file": "../../usb/usb_msc.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1716,7 +1716,7 @@
   "file": "../../usb/usb_hid.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1749,7 +1749,7 @@
   "file": "../../usb/usb_audio.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1782,7 +1782,7 @@
   "file": "../../usb/usb_cdc.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1815,7 +1815,7 @@
   "file": "../../usb/usb_midi.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1848,7 +1848,7 @@
   "file": "../../usb/usb_dwc_common.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1881,7 +1881,7 @@
   "file": "../../usb/usb_f107.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1914,7 +1914,7 @@
   "file": "../../usb/usb_f207.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1947,7 +1947,7 @@
   "file": "../../ethernet/mac.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -1980,7 +1980,7 @@
   "file": "../../ethernet/phy.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2013,7 +2013,7 @@
   "file": "../../ethernet/mac_stm32fxx7.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2046,7 +2046,7 @@
   "file": "../../ethernet/phy_ksz80x1.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2079,7 +2079,7 @@
   "file": "../../cm3/vector.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2112,7 +2112,7 @@
   "file": "../../cm3/systick.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2145,7 +2145,7 @@
   "file": "../../cm3/scb.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2178,7 +2178,7 @@
   "file": "../../cm3/nvic.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2211,7 +2211,7 @@
   "file": "../../cm3/assert.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
@@ -2244,7 +2244,7 @@
   "file": "../../cm3/sync.c"
  },
  {
-  "directory": "/Users/mohamed/workspace/stm32_projects/tests/libopencm3_empty_setup/external/libopencm3/lib/stm32/f4",
+  "directory": "/Users/mohamed/workspace/stm32_projects/tests/external_interups/workspace/external/libopencm3/lib/stm32/f4",
   "arguments": [
    "arm-none-eabi-gcc",
    "-Os",
